@@ -1,4 +1,4 @@
-**Hello!** Did you know, this readme is formatted in *Ma***rk****do*w****n*** (that was just syntax testing).
+**Hello!** Did you know, this readme is formatted in Markdown.
 
 This `README.md` is stored on a repo named [Tyler887](https://github.com/Tyler887/Tyler887). Uh...
 ``` markdown
