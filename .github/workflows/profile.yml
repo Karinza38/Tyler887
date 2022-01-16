@@ -2,7 +2,7 @@ on:
 
   schedule:
 
-    - cron: '* * * * * *' # every 5 minutes
+    - cron: '* * * * *' # every 5 minutes
 
   push:
 
