@@ -8,4 +8,8 @@ To say my name in python just write:
 ```python
 print("Tyler887")
 ```
+equalivent to ruby:
+```ruby
+print "Tyler887"
+```
 *Also works with command line output.*
