@@ -32,7 +32,7 @@ jobs:
 
       with:
 
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.USER_TOKEN }}
 
     - name: Update README.md
 
