@@ -2,7 +2,7 @@ on:
 
   schedule:
 
-    - cron: '* * * * *' # every 5 minutes
+    - cron: '10 * * * *' # every 10 minutes
 
   push:
 
@@ -32,7 +32,7 @@ jobs:
 
       with:
 
-        token: ${{ secrets.USER_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Update README.md
 
